@@ -37,5 +37,14 @@ assets/      → Imagens e ícones utilizados.
    git clone https://github.com/seu-usuario/guia-da-beleza.git
 
 
-📄 Licença
-Este projeto está sob a licença MIT.
+## 📬 Contato
+
+- **Email:** lucianabritodev@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/luciana-brito-60a307237)  
+- [GitHub](https://github.com/LucianaBritoDev)
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT — sinta-se livre para usar e adaptar.
