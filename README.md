@@ -20,24 +20,24 @@ Bem-vindo(a) ao **Guia da Beleza**, um projeto criado para divulgar e organizar 
 ## 🎯 Objetivo:
 Este projeto tem como objetivo facilitar o acesso dos clientes aos serviços de beleza, reunindo em um só lugar informações sobre profissionais e especialidades.
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas:
 - HTML5;
 - CSS3;
 - (Opcional: JavaScript, caso seja expandido futuramente).
 
-## 📂 Estrutura do projeto
+## 📂 Estrutura do projeto:
 index.html    → Página principal com informações dos serviços;
 style.css     → Estilos visuais da página;
 assets/      → Imagens e ícones utilizados.
 
 
-## 📌 Como visualizar
+## 📌 Como visualizar:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/guia-da-beleza.git
 
 
-## 📬 Contato
+## 📬 Contato:
 
 - **Email:** lucianabritodev@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/luciana-brito-60a307237)  
@@ -45,6 +45,6 @@ assets/      → Imagens e ícones utilizados.
 
 ---
 
-## 📄 Licença
+## 📄 Licença:
 
 Este projeto está sob a licença MIT — sinta-se livre para usar e adaptar.
