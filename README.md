@@ -10,7 +10,7 @@ Bem-vindo(a) ao **Guia da Beleza**, um projeto criado para divulgar e organizar 
 - Corte de cabelo;  
 - Coloração;  
 - Manicure e Pedicure; 
-- Tratamentos faciais. 
+- Tratamentos Faciais. 
 
 ## 👩‍🔧 Profissionais (nomes fictícios):
 - **Maria Silva** – Cabeleireira; 
